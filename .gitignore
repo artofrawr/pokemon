@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+venv
+
+# misc
+.DS_Store
+
+# local env files
+**.env*
+
+# project specific
+codes.txt
